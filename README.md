@@ -1,4 +1,9 @@
-# SEO Search Script (For web scraping)
+# Python Web Scraper
+
+## Software version used
+
+* `pip` 25.2
+* `python` 3.13
 
 ## Setup
 
