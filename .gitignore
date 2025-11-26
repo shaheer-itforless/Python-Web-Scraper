@@ -2,4 +2,4 @@
 venv/
 
 urls.txt
-output.csv
+*.csv
