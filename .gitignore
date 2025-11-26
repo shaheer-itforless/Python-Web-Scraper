@@ -1,2 +1,5 @@
 .vscode/
 venv/
+
+urls.txt
+output.csv
