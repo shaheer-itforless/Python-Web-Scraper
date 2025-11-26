@@ -7,7 +7,11 @@
 
 ## Setup
 
-Run command `pip install -r requirements.txt` in project root.
+```sh
+pip install -r requirements.txt
+
+playwright install chromium
+```
 
 ## Steps
 
