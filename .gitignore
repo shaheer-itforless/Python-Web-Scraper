@@ -1,5 +1,5 @@
 .vscode/
 .venv/
 
-urls.txt
+*urls.txt
 *.csv
